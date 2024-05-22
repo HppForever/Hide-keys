@@ -1,4 +1,4 @@
-class C_CLIENT_HideKeys_FromServer
+class HideKeys_FromServer
 {
 	public: void CL_CreateMove() // METHOD IS NOT UNDETECT, SO YOU MAY GET BANNED BY ANTICHEAT ON SOME SERVERS!
 	{
